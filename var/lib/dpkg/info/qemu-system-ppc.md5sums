@@ -1,0 +1,9 @@
+362f9ab3d67509ab1caf88069ab09d87  usr/bin/qemu-system-ppc
+479db13cf09c11daae06e844bb37c11d  usr/bin/qemu-system-ppc64
+db56ef12f46ce64caaa238ed078b3f76  usr/bin/qemu-system-ppcemb
+247ae70d164b74e9b483a9c61e54f34f  usr/share/doc/qemu-system-ppc/README.Debian
+54d7458605162b23da5e2f4bff7a8012  usr/share/doc/qemu-system-ppc/copyright
+61d77f89e2c5b755fd7134c9f42fdcdf  usr/share/man/man1/qemu-system-ppc.1.gz
+61d77f89e2c5b755fd7134c9f42fdcdf  usr/share/man/man1/qemu-system-ppc64.1.gz
+61d77f89e2c5b755fd7134c9f42fdcdf  usr/share/man/man1/qemu-system-ppcemb.1.gz
+ab3bf95f4a647148719ea95d72c3b75c  usr/share/qemu/bamboo.dtb

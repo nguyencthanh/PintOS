@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/slof
+/usr/share/slof/spapr-rtas.bin
+/usr/share/slof/slof.bin
+/usr/share/doc
+/usr/share/doc/qemu-slof
+/usr/share/doc/qemu-slof/copyright
+/usr/share/doc/qemu-slof/changelog.Debian.gz

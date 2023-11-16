@@ -1,0 +1,2 @@
+1c261d6541420797f8b824d65ac5c197  /etc/apt/apt.conf.d/20auto-upgrades
+404d67afd60e7b8b11f08b1360da219b  /etc/apt/apt.conf.d/50unattended-upgrades

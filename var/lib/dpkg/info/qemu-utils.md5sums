@@ -1,0 +1,13 @@
+d99efa5da272de347433e1b63cde7f54  usr/bin/ivshmem-client
+644a7bf87af7ba7ed778204a051e8764  usr/bin/ivshmem-server
+78edcaf9a8793a5056059d5a081dc387  usr/bin/qemu-img
+640381df88c512d7dce80cf69a4d24da  usr/bin/qemu-io
+5bce6dda01faf521b2790b2c95b63c5f  usr/bin/qemu-nbd
+7317636fed1cb38d04a3f52666800f0e  usr/sbin/qemu-make-debian-root
+8d4085e37d032045e93476ac1a791330  usr/share/doc/qemu-utils/NEWS.Debian.gz
+47f6597c884a437dc4f65f95376a94b6  usr/share/doc/qemu-utils/README.Debian
+54d7458605162b23da5e2f4bff7a8012  usr/share/doc/qemu-utils/copyright
+9aef678942d6c26d3ae3c9f10989f082  usr/share/man/man1/qemu-img.1.gz
+c5a13e87ba3bdceddf0f56a30b6f2c62  usr/share/man/man1/qemu-io.1.gz
+c944206ec41756b86d0ccba8b356b1ab  usr/share/man/man8/qemu-make-debian-root.8.gz
+f7a7d89607b7467a882ca98198f0460e  usr/share/man/man8/qemu-nbd.8.gz

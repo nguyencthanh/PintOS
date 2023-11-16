@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/gcc
+/usr/lib/gcc/x86_64-linux-gnu
+/usr/lib/gcc/x86_64-linux-gnu/4.4
+/usr/lib/gcc/x86_64-linux-gnu/4.4/32
+/usr/lib/gcc/x86_64-linux-gnu/4.4/32/libstdc++_pic.a
+/usr/lib/gcc/x86_64-linux-gnu/4.4/32/libstdc++.a
+/usr/lib/gcc/x86_64-linux-gnu/4.4/32/libsupc++.a
+/usr/share
+/usr/share/doc
+/usr/lib/gcc/x86_64-linux-gnu/4.4/32/libstdc++.so
+/usr/share/doc/g++-4.4-multilib

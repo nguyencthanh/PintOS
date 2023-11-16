@@ -1,0 +1,5 @@
+9e05b6fe18896f76417bbd7db41686cf  usr/bin/qemu-system-aarch64
+4ed616f9e10d7d480370628f8787027b  usr/bin/qemu-system-arm
+54d7458605162b23da5e2f4bff7a8012  usr/share/doc/qemu-system-arm/copyright
+61d77f89e2c5b755fd7134c9f42fdcdf  usr/share/man/man1/qemu-system-aarch64.1.gz
+61d77f89e2c5b755fd7134c9f42fdcdf  usr/share/man/man1/qemu-system-arm.1.gz

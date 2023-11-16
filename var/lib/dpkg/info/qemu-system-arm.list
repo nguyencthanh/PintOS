@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/bin
+/usr/bin/qemu-system-aarch64
+/usr/bin/qemu-system-arm
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/qemu-system-arm.1.gz
+/usr/share/man/man1/qemu-system-aarch64.1.gz
+/usr/share/doc
+/usr/share/doc/qemu-system-arm
+/usr/share/doc/qemu-system-arm/copyright
+/usr/share/doc/qemu-system-arm/changelog.Debian.gz
+/usr/share/doc/qemu-system-arm/common

@@ -1,0 +1,5 @@
+/etc/default/qemu-kvm
+/etc/init.d/qemu-kvm
+/etc/init/qemu-kvm.conf
+/etc/qemu-ifdown
+/etc/qemu-ifup

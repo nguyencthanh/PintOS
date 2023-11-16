@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/qemu
+/usr/share/doc/qemu/copyright
+/usr/share/doc/qemu/TODO.Debian
+/usr/share/doc/qemu/qemu-doc.html
+/usr/share/doc-base
+/usr/share/doc-base/qemu-doc
+/usr/share/doc/qemu/changelog.Debian.gz
