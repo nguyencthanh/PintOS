@@ -1,0 +1,5 @@
+TARGETS = unattended-upgrades killprocs binfmt-support rsync dbus cron single rc.local ondemand
+INTERACTIVE =
+single: killprocs
+rc.local: unattended-upgrades binfmt-support rsync dbus cron
+ondemand: unattended-upgrades binfmt-support rsync dbus cron

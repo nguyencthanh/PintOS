@@ -1,0 +1,8 @@
+TARGETS = unattended-upgrades urandom hwclock.sh sendsigs umountnfs.sh networking umountfs umountroot halt reboot
+sendsigs: unattended-upgrades
+umountnfs.sh: unattended-upgrades sendsigs
+networking: umountnfs.sh
+umountfs: urandom hwclock.sh unattended-upgrades networking umountnfs.sh
+umountroot: umountfs
+halt: umountroot
+reboot: umountroot
